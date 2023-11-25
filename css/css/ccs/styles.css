@@ -1,0 +1,21 @@
+body {
+    color: brown;
+    background-color: black;
+}
+
+header {
+    background-color: blue;
+    height: 200px;
+}
+
+footer {
+    background-color: blueviolet;
+}
+p {
+    color: yellow;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
