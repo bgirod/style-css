@@ -19,3 +19,13 @@ h1 {
     color: white;
     text-align: center;
 }
+
+#texto-footer {
+    color: blue;
+    font-size: 50px;
+}
+
+.importante {
+    background-color: red;
+    color: white;
+}
